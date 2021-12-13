@@ -1,0 +1,14 @@
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\obj\Debug\netcoreapp3.1\1consol.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\obj\Debug\netcoreapp3.1\1consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\obj\Debug\netcoreapp3.1\1consol.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\obj\Debug\netcoreapp3.1\1consol.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\obj\Debug\netcoreapp3.1\1consol.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\bin\Debug\netcoreapp3.1\1consol.exe
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\bin\Debug\netcoreapp3.1\1consol.deps.json
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\bin\Debug\netcoreapp3.1\1consol.runtimeconfig.json
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\bin\Debug\netcoreapp3.1\1consol.runtimeconfig.dev.json
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\bin\Debug\netcoreapp3.1\1consol.dll
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\bin\Debug\netcoreapp3.1\1consol.pdb
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\obj\Debug\netcoreapp3.1\1consol.dll
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\obj\Debug\netcoreapp3.1\1consol.pdb
+C:\Users\Andrey\Desktop\учеба\praktika\9\1consol\1consol\obj\Debug\netcoreapp3.1\1consol.genruntimeconfig.cache
